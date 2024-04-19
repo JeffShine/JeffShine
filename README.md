@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋
+This is Chenhui Jin, a third-year undergraduate student at the University of Science ＆ Technology of China (USTC).
 <!--
 **JeffShine/JeffShine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
